@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/ankur-15/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/ankur-15/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/ankur-15/Leetcode/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ankur-15/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Math
 |  |
 | ------- |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/ankur-15/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/ankur-15/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ankur-15/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ankur-15/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
