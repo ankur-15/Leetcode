@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ankur-15/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankur-15/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ankur-15/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0191-number-of-1-bits](https://github.com/ankur-15/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/ankur-15/Leetcode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/ankur-15/Leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/ankur-15/Leetcode/tree/master/0090-subsets-ii) |
+| [0191-number-of-1-bits](https://github.com/ankur-15/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Matrix
 |  |
 | ------- |
