@@ -1,18 +1,18 @@
 class Solution:
-    def copyRandomList(self, head: 'Optional[Node]') -> 'Optional[Node]':
-        if not head:
-            return None
-        old_to_new = {}
+    def copyRandomList(self, head: 'Optional[Node]') -> 'Optional[Node]':    
+        hash = {None:None}
+        cur = head
         
-        curr = head
-        while curr:
-            old_to_new[curr] = Node(curr.val)
-            curr = curr.next
-        
-        curr = head
-        while curr:
-            old_to_new[curr].next = old_to_new.get(curr.next)
-            old_to_new[curr].random = old_to_new.get(curr.random)
-            curr = curr.next
+        while cur:
+            hash[cur] = Node(cur.val)
+            cur = cur.next
             
-        return old_to_new[head]
+        cur = head
+        
+        while cur:
+            copy = hash[cur]
+            copy.next = hash[cur.next]
+            copy.random = hash[cur.random]
+            cur = cur.next
+            
+        return hash[head]
