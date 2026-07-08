@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/ankur-15/Leetcode/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/ankur-15/Leetcode/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/ankur-15/Leetcode/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/ankur-15/Leetcode/tree/master/0148-sort-list) |
 ## Math
 |  |
 | ------- |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ankur-15/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankur-15/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ankur-15/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/ankur-15/Leetcode/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/ankur-15/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Two Pointers
 |  |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ankur-15/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ankur-15/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/ankur-15/Leetcode/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/ankur-15/Leetcode/tree/master/0148-sort-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ankur-15/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ankur-15/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/ankur-15/Leetcode/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/ankur-15/Leetcode/tree/master/0148-sort-list) |
 ## Backtracking
 |  |
 | ------- |
@@ -328,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ankur-15/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/ankur-15/Leetcode/tree/master/0148-sort-list) |
 ## String Matching
 |  |
 | ------- |
